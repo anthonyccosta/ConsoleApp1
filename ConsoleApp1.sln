@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{F97A7411-92C1-4790-A3DF-4481C1A8C200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pár ou impar", "pár ou impar\pár ou impar.csproj", "{CEF3221F-98D5-4750-B219-C5089F1C21F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicios 18-04 5by5", "..\Exercicios 18-04 5by5\Exercicios 18-04 5by5.csproj", "{CA710FFF-4834-436A-A163-60CDC6700C89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "duas notas e calcule sua media", "..\Exercicios 18-04 5by5\duas notas e calcule sua media\duas notas e calcule sua media.csproj", "{B93B033E-2B5A-4AC3-8EC8-A34E8124E917}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "leia a idade de uma pessoa", "..\Exercicios 18-04 5by5\leia a idade de uma pessoa\leia a idade de uma pessoa.csproj", "{538722E7-8B2C-4A7B-8098-F6FF1B0C0D04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F97A7411-92C1-4790-A3DF-4481C1A8C200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97A7411-92C1-4790-A3DF-4481C1A8C200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F97A7411-92C1-4790-A3DF-4481C1A8C200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97A7411-92C1-4790-A3DF-4481C1A8C200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF3221F-98D5-4750-B219-C5089F1C21F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF3221F-98D5-4750-B219-C5089F1C21F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF3221F-98D5-4750-B219-C5089F1C21F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF3221F-98D5-4750-B219-C5089F1C21F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA710FFF-4834-436A-A163-60CDC6700C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA710FFF-4834-436A-A163-60CDC6700C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA710FFF-4834-436A-A163-60CDC6700C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA710FFF-4834-436A-A163-60CDC6700C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93B033E-2B5A-4AC3-8EC8-A34E8124E917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93B033E-2B5A-4AC3-8EC8-A34E8124E917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93B033E-2B5A-4AC3-8EC8-A34E8124E917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93B033E-2B5A-4AC3-8EC8-A34E8124E917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538722E7-8B2C-4A7B-8098-F6FF1B0C0D04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538722E7-8B2C-4A7B-8098-F6FF1B0C0D04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538722E7-8B2C-4A7B-8098-F6FF1B0C0D04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538722E7-8B2C-4A7B-8098-F6FF1B0C0D04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC29D644-DFB7-4835-8EDE-1CC616ADAFAB}
+	EndGlobalSection
+EndGlobal
